@@ -13,3 +13,4 @@ nibabel>=5.0.0
 pillow>=9.0.0
 numpy>=1.21
 natsort
+ipywidgets>=8.0.0
