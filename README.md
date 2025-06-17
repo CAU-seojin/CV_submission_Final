@@ -1,6 +1,6 @@
 # CV_submission_Final
 
-### submission_20220515.py: ???
+### submission_20220515.py: LCNet
 ---
 1. 가상환경 생성
 
